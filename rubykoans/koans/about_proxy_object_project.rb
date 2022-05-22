@@ -44,6 +44,7 @@ class Proxy
   end
 end
 
+
 # The proxy object should pass the following Koan:
 #
 class AboutProxyObjectProject < Neo::Koan
